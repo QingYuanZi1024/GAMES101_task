@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cs18/Desktop/games101_task/assignment0/build",
+  "command": "/usr/bin/g++   -I../EIGEN3_INCLUDE_DIR  -g   -o CMakeFiles/Transformation.dir/main.cpp.o -c /home/cs18/Desktop/games101_task/assignment0/main.cpp",
+  "file": "/home/cs18/Desktop/games101_task/assignment0/main.cpp"
+}
+]
