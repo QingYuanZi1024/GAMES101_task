@@ -1,2 +1,2 @@
-# games101_task
+# GAMES101_task
 GAMES101
